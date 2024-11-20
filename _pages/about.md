@@ -23,7 +23,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 -->
 ## Conference Publications
 - **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>** \\
-**Joonhyung Park**, Peng Tang, Sagnik Das, srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
+**Joonhyung Park**, Peng Tang, Sagnik Das, Srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
  \\
 Under Review
 - **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
