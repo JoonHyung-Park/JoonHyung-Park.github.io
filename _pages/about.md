@@ -22,8 +22,12 @@ My research interest falls into enhancing the understanding of unstructured/vide
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Conference Publications
+- **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>** \\
+**Joonhyung Park**, Peng Tang, Sagnik Das, srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
+ \\
+Under Review
 - **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
-Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim and Eunho Yang \\
+Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2024
 
 - **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>**
@@ -38,7 +42,7 @@ Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
 **Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(* : equal contribution)</font> \\
-Under Review
+<span style="color:darkred">**TPAMI**</span> (Under Review)
 
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10097196) \\
