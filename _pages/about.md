@@ -12,8 +12,9 @@ classes: "about-page"
 I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://mli.kaist.ac.kr/people/). Currently, I am working as an intern at [Amazon AWS AI](https://www.amazon.science/) with [Peng Tang](https://www.linkedin.com/in/ppengtang/en). **Please feel free to contact me if you are interested in potential collaborations.**
 
 My research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models.
-- Multimodal Large language models: Generation and Comprehension
-- Compositional Generalization (Object-centric Learning)
+- Multimodal Large Language Models: Generation and Comprehension
+- Graphical User Interface (GUI) Agent
+- Compositional Generalization (*a.k.a* Object-centric Learning)
 - Graph-driven Modal Understanding
 
 
@@ -71,7 +72,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 
 ## Work Experiences
 - Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
-  - Mentors: Peng Tang, Srikar Appalaraju, Yash Singh, and Sagnik Das
+  - Mentors: Peng Tang, Srikar Appalaraju, Yash Singh, Sagnik Das, and Shabnam Ghadar
 - Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>
   - Advisor: [Prof. Homa Alemzadeh](https://homa-alem.github.io/)
   - Medical concept extraction in text data for Cognitive Assistant System of emergency medical response (supported by the National Institute of Standards and Technology).
@@ -83,7 +84,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 
 - **M.S.** in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2020 - Mar. 2021</font> 
 
-- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude***)</span>
+- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude, 1st in College of Engineering***)</span>
 
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
@@ -97,8 +98,11 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Learning Representations (ICLR) 
     - Computer Vision and Pattern Recognition (CVPR)
+    - International Conference on Computer Vision (ICCV)
     - AAAI Conference on Artificial Intelligence (AAAI)
+    - International Conference on Artificial Intelligence and Statistics (AISTATS)
     - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     - Learning on Graphs (LoG)
 - Journal Reviewer
     - Transactions on Neural Networks and Learning Systems (TNNLS)
+    - Transactions on Multimedia (TMM)
