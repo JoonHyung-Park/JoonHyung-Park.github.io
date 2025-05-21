@@ -22,11 +22,12 @@ My research interest falls into enhancing the understanding of unstructured/vide
 <!---**Learning on 3D Vision**\\
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
-## Conference Publications
+## Publications
 - **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>** \\
 **Joonhyung Park**, Peng Tang, Sagnik Das, Srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
  \\
-Under Review
+<span style="color:darkred">**ACL**</span> 2025
+
 - **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
 Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2024
@@ -70,7 +71,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 **Joonhyung Park\***, Hajin Shim\*, Eunho Yang <font size="3">(*: equal contribution)</font> \\
 <span style="color:darkred">**AAAI**</span> 2022
 
-## Work Experiences
+## Work Experience
 - Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
   - Mentors: Peng Tang, Srikar Appalaraju, Yash Singh, Sagnik Das, and Shabnam Ghadar
 - Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>
@@ -93,7 +94,7 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
 
 ## Acamdeic Services
-- Conference Reviewer
+- **Conference Reviewer**
     - International Conference on Machine Learning (ICML)
     - Neural Information Processing Systems (NeurIPS)
     - International Conference on Learning Representations (ICLR) 
@@ -103,6 +104,6 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
     - International Conference on Artificial Intelligence and Statistics (AISTATS)
     - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
     - Learning on Graphs (LoG)
-- Journal Reviewer
+- **Journal Reviewer**
     - Transactions on Neural Networks and Learning Systems (TNNLS)
     - Transactions on Multimedia (TMM)
