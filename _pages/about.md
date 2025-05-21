@@ -28,7 +28,8 @@ My primary research interest in 3D vision falls into two branches following: 1) 
  \\
 <span style="color:darkred">**ACL**</span> 2025
 
-- **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** \\
+- **<font size="4">PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency</font>** 
+[[paper]](https://arxiv.org/pdf/2406.00798) \\
 Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim, Eunho Yang \\
 <span style="color:darkred">**ICML**</span> 2024
 
