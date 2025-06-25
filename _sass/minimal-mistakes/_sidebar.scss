@@ -141,8 +141,6 @@
     width: 180px;
     height: 180px;
     // border-radius: 50%;
-    object-fit: contain;
-    object-position: center;
     @include breakpoint($large) {
       padding: 5px;
       // border: 1px solid $border-color;
