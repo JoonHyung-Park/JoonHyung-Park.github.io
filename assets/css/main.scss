@@ -1,22 +1,35 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Only the main Sass file needs front matter
 ---
 
 @charset "utf-8";
 
-/* ① Google Fonts 가져오기 ─ Raleway + Merriweather */
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&family=Merriweather:wght@300;400&display=swap');
+/* ① Google Fonts ─ Raleway 400/500 + Merriweather 400 */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500&family=Merriweather:wght@400&display=swap');
 
-/* ② Minimal Mistakes 기본 변수 오버라이드  (★ 반드시 @import 전에!) */
-$global-font-family : 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-                      Roboto, 'Helvetica Neue', Arial, sans-serif;
-$header-font-family : $global-font-family;   // 사이드바·헤더
-$serif              : 'Merriweather', Georgia, serif;  // 세리프 계열
+/* ② 변수 오버라이드 */
+$global-font-family : 'Raleway', sans-serif;
+$header-font-family : $global-font-family;   
+$serif              : 'Merriweather', serif;
 
-/* 글 본문만 세리프를 쓰고 싶다면 */
-.page__content, .post {
-  font-family: 'Merriweather', serif;
+/* ③ 타이포그래피 덮어쓰기 */
+/* 본문 ▶ Raleway 500 */
+.page__content p,
+.page__content li,
+.page__content blockquote,
+.page__content td,
+.page__content th {
+  font-family : 'Raleway', sans-serif;
+  font-weight : 500;
+  line-height : 1.6em;
 }
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+/* 네비(사이드 메뉴) ▶ Merriweather */
+.navigation ul a {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
