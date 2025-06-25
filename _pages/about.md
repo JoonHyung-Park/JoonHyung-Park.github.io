@@ -1,7 +1,9 @@
 ---
 permalink: /
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
+page.title: "Joonhyung Park"
 redirect_from:
   - /about/
   - /about.html
