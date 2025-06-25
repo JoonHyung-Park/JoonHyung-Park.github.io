@@ -1,9 +1,3 @@
 .about-page .page__content a {
     color: #0056b3 !important;
 }
-.sidebar .author__avatar img {
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  width: 120px !important;
-  height: 120px !important;
-}
