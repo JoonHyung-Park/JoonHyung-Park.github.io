@@ -4,5 +4,19 @@
 
 @charset "utf-8";
 
+/* ① Google Fonts 가져오기 ─ Raleway + Merriweather */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&family=Merriweather:wght@300;400&display=swap');
+
+/* ② Minimal Mistakes 기본 변수 오버라이드  (★ 반드시 @import 전에!) */
+$global-font-family : 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                      Roboto, 'Helvetica Neue', Arial, sans-serif;
+$header-font-family : $global-font-family;   // 사이드바·헤더
+$serif              : 'Merriweather', Georgia, serif;  // 세리프 계열
+
+/* 글 본문만 세리프를 쓰고 싶다면 */
+.page__content, .post {
+  font-family: 'Merriweather', serif;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
