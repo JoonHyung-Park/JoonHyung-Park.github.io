@@ -1,9 +1,9 @@
 .about-page .page__content a {
     color: #0056b3 !important;
 }
-img.bio-photo {
-  border-radius: 50%;   /* 동그랗게 만듦 */
-  object-fit: cover;
-  width: 120px;         /* 필요에 따라 조절 */
-  height: 120px;        /* 필요에 따라 조절 */
+.sidebar .author__avatar img {
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  width: 120px !important;
+  height: 120px !important;
 }
