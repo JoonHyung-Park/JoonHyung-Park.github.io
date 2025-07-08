@@ -20,7 +20,7 @@ title                    : "Joonhyung Park"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joonhyung Park"
-description              : "Ph.D. Student at KAIST"
+description              : "Postdoctoral Research Associate at KAIST"
 url                      : "https://joonhyung-park.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JoonHyung-Park/JoonHyung-Park.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
