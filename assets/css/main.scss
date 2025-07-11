@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 /* ① Google Fonts ─ Raleway 400/500 + Merriweather 400 */
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&family=Merriweather:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&family=Merriweather:wght@400&display=swap');
 
 
 /* ② 변수 오버라이드 */
@@ -27,7 +27,7 @@ $serif              : 'Merriweather', serif;
 
 .page__content strong, 
 .page__content b {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 /* 네비(사이드 메뉴) ▶ Merriweather */
