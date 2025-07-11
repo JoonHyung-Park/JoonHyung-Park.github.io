@@ -24,6 +24,11 @@ $serif              : 'Merriweather', serif;
   line-height : 1.6em;
 }
 
+.page__content strong, 
+.page__content b {
+  font-weight: 700;
+}
+
 /* 네비(사이드 메뉴) ▶ Merriweather */
 .navigation ul a {
   font-family: 'Merriweather', serif;
