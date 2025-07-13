@@ -89,17 +89,17 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 - **Amazon AWS AI**  
 Applied Scientist II Intern  
 **Mentors**: [Peng Tang](https://ppengttang.github.io/), [Srikar Appalaraju](https://scholar.google.com/citations?user=KQLmaxgAAAAJ&hl=en), [Yash Singh](https://www.linkedin.com/in/kunwar-yashraj-singh-62ba5552/), [Sagnik Das](https://www3.cs.stonybrook.edu/~sadas/), and [Shabnam Ghadar](https://www.linkedin.com/in/shghadar/)  
-<font size="2">Jun 2024 – Nov 2024, Pasadena, CA</font>   
+<font size="3">Jun 2024 – Nov 2024, Pasadena, CA</font>   
 
 - **University of Virginia**  
 Research Intern   
 **Advisor**: Prof. [Homa Alemzadeh](https://homa-alem.github.io/)  
-<font size="2">Jun 2018 – Aug 2018, Charlottesville, VA</font>   
+<font size="3">Jun 2018 – Aug 2018, Charlottesville, VA</font>   
 <!-- Medical concept extraction in text data for a Cognitive Assistant System for emergency medical response (supported by NIST). -->
 
 - **Collaborative Robots Research Center, DGIST**  
 Research Intern  
-<font size="2">Jun 2017 – Aug 2017, Daegu, South Korea</font>   
+<font size="3">Jun 2017 – Aug 2017, Daegu, South Korea</font>   
 
 <!-- Developed a treadmill for stroke hemiplegic patients. -->
 <!-- - Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
@@ -115,13 +115,13 @@ Research Intern
 
 - **M.S.** in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2020 - Mar. 2021</font> 
 
-- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude, 1st in College of Engineering***)</span>
+- **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude, 1st in Bachelor of Engineering***)</span>
 
 ## Honors and Awards
-- Jang Young Sil Posdoctoral Fellowship (KRW 50 milion research grant), 2025
-- Hessel Leadership Award (DGIST President's award for highest GPA),  2019
-- Dean’s List (top 3% academic scholarship), Spring 2018, Fall 2017, Spring 2017  
-- DGIST Undergraduate Research Award, 2018
+- **Jang Young Sil Posdoctoral Fellowship** (KRW 50 milion research grant), 2025
+- **Hessel Leadership Award** (DGIST President's award for highest GPA),  2019
+- **Dean’s List** (top 3% academic scholarship), Spring 2018, Fall 2017, Spring 2017  
+- **DGIST Undergraduate Research Award**, 2018
 
 ## Mentoring
 - [Sohee Kim](https://www.linkedin.com/in/sohee-kim-b52098276/) (M.S. Student, KAIST → Ph.D. Student, KAIST)  
