@@ -30,8 +30,8 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 **May 2025**: One paper accepted to ACL 2025.  
 **May 2025**: Received Jang Young Sil Postdoctoral Fellowship from KAIST.  
 **Dec 2024**: Successfully defended Ph.D. dissertation (Committee: Eunho Yang, Jinwoo Shin, Jaegul Choo, Sung Ju Hwang, Jong Chul Ye).  
-**Dec 2024** One paper is got accpeted to the AAAI 2025.
-**Jun 2024** Started Applied Scientist II Internship at Amazon AWS AI Labs.
+**Dec 2024** One paper is got accpeted to the AAAI 2025.  
+**Jun 2024** Started Applied Scientist II Internship at Amazon AWS AI Labs.  
 **May 2024** One paper accepted to ICML 2024.
 
 ## Publications
@@ -63,7 +63,6 @@ Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10097196) \\
 Kyusung Seo, **Joonhyung Park**, Jaeyun Song, Eunho Yang \\
-
 <span style="color:darkred">**ICASSP**</span> 2023 (Congrats on my mentee's paper! :tada:)
 
 - **<font size="4">TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification</font>**
