@@ -12,12 +12,12 @@ classes: "about-page"
 I'm a Postdoctoral Research Associate at the [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, where I received my Ph.D. degree advised by Prof. [Eunho Yang](https://mli.kaist.ac.kr/people/). During my Ph.D., I worked as a research intern at [Amazon AWS AI](https://www.amazon.science/) (GUI Agent team) and collaborated closely with [Peng Tang](https://ppengttang.github.io/), a researcher at [Meta](https://ai.meta.com/research/). I also worked with Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) and Prof. [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) through collaborative research. I am a recipient of the [Jang Young Sil Postdoctoral Fellowship](https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=V&no=2173bbf76f962af21132db6a2257046c&GotoPage=1), which supports outstanding postdoctoral researchers in Korea.
 
 <!-- My research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models. -->
-I am broadly interested in advancing the **reasoning capabilities of AI models (System 2 thinking)** in the context of **multi-modal learning**. In particular, my recent research focuses on test-time scaling, pushing models toward deeper visual understanding and generation, and augmenting them with structured knowledge so that their learned representations are ready for in-depth reasoning. Ultimately, my research aims to design models capable of **human-level reasoning** by flexibly engaging with diverse modalities. Before the LLM era, I worked on modeling complex modalities **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), scene graphs (video). My previous works focused on building algorithms that leverage relational information of data therein, revisiting real-world problems within a graph-based framework to provide a structured and compositional understanding in machine learning models.
+I am broadly interested in advancing the **reasoning capabilities of AI models (System 2 Thinking)** in the context of **multi-modal learning**. In particular, my recent research focuses on test-time scaling, pushing models toward deeper visual understanding and generation, and augmenting them with structured knowledge so that their learned representations are ready for in-depth reasoning. Ultimately, my research aims to design models capable of **human-level reasoning** by flexibly engaging with diverse modalities. Before the LLM era, I worked on modeling complex modalities through the lens of graph-structured knowledge - *e.g.* object graphs (3D vision), scene graphs (video) - revisiting real-world problems within a graph-based framework to provide a structured and compositional understanding to machine learning models.
 
-- Multimodal Large Language Models: Generation and Comprehension
+- Multimodal Reasoning: Generation and Comprehension
 - Graphical User Interface (GUI) Agent
-- Compositional Generalization (*a.k.a* Object-centric Learning)
-- Graph-driven Modal Understanding
+<!-- - Compositional Generalization (*a.k.a* Object-centric Learning) -->
+- Graph-driven Compositional Modal Understanding
 
 
 
@@ -25,7 +25,8 @@ I am broadly interested in advancing the **reasoning capabilities of AI models (
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## Publications
-- **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>** \\
+- **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>**
+[[paper]](https://arxiv.org/abs/2507.05673) \\
 <b>Joonhyung Park</b>, Peng Tang, Sagnik Das, Srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
  \\
 <span style="color:darkred">**ACL**</span> 2025
@@ -98,15 +99,15 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 
 ## Acamdeic Services
 - **Conference Reviewer**
-    - International Conference on Machine Learning (ICML)
-    - Neural Information Processing Systems (NeurIPS)
-    - International Conference on Learning Representations (ICLR) 
-    - Computer Vision and Pattern Recognition (CVPR)
-    - International Conference on Computer Vision (ICCV)
-    - AAAI Conference on Artificial Intelligence (AAAI)
-    - International Conference on Artificial Intelligence and Statistics (AISTATS)
-    - International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-    - Learning on Graphs (LoG)
+    - International Conference on Machine Learning (**ICML**)
+    - Neural Information Processing Systems (**NeurIPS)
+    - International Conference on Learning Representations (**ICLR**) 
+    - Computer Vision and Pattern Recognition (**CVPR**)
+    - International Conference on Computer Vision (**ICCV**)
+    - AAAI Conference on Artificial Intelligence (**AAAI**)
+    - International Conference on Artificial Intelligence and Statistics (**AISTATS**)
+    - International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)
+    - Learning on Graphs (**LoG**)
 - **Journal Reviewer**
-    - Transactions on Neural Networks and Learning Systems (TNNLS)
-    - Transactions on Multimedia (TMM)
+    - Transactions on Neural Networks and Learning Systems (**TNNLS**)
+    - Transactions on Multimedia (**TMM**)
