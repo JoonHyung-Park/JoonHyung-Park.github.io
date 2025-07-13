@@ -88,18 +88,18 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 ## Work Experience
 - **Amazon AWS AI**  
 Applied Scientist II Intern  
-Mentors: [Peng Tang](https://ppengttang.github.io/), [Srikar Appalaraju](https://scholar.google.com/citations?user=KQLmaxgAAAAJ&hl=en), [Yash Singh](https://www.linkedin.com/in/kunwar-yashraj-singh-62ba5552/), [Sagnik Das](https://www3.cs.stonybrook.edu/~sadas/), and [Shabnam Ghadar](https://www.linkedin.com/in/shghadar/)  
-Jun 2024 – Nov 2024, Pasadena, CA
+**Mentors**: [Peng Tang](https://ppengttang.github.io/), [Srikar Appalaraju](https://scholar.google.com/citations?user=KQLmaxgAAAAJ&hl=en), [Yash Singh](https://www.linkedin.com/in/kunwar-yashraj-singh-62ba5552/), [Sagnik Das](https://www3.cs.stonybrook.edu/~sadas/), and [Shabnam Ghadar](https://www.linkedin.com/in/shghadar/)  
+<font size="2">Jun 2024 – Nov 2024, Pasadena, CA</font>   
 
 - **University of Virginia**  
 Research Intern   
-Advisor: Prof. [Homa Alemzadeh](https://homa-alem.github.io/)  
-Jun 2018 – Aug 2018, Charlottesville, VA  
+**Advisor**: Prof. [Homa Alemzadeh](https://homa-alem.github.io/)  
+<font size="2">Jun 2018 – Aug 2018, Charlottesville, VA</font>   
 <!-- Medical concept extraction in text data for a Cognitive Assistant System for emergency medical response (supported by NIST). -->
 
 - **Collaborative Robots Research Center, DGIST**  
 Research Intern  
-Jun 2017 – Aug 2017, Daegu, South Korea  
+<font size="2">Jun 2017 – Aug 2017, Daegu, South Korea</font>   
 
 <!-- Developed a treadmill for stroke hemiplegic patients. -->
 <!-- - Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
@@ -117,14 +117,22 @@ Jun 2017 – Aug 2017, Daegu, South Korea
 
 - **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude, 1st in College of Engineering***)</span>
 
-## Honors
-aa
+## Honors and Awards
+- Jang Young Sil Posdoctoral Fellowship (KRW 50 milion research grant), 2025
+- Hessel Leadership Award (DGIST President's award for highest GPA),  2019
+- Dean’s List (top 3% academic scholarship), Spring 2018, Fall 2017, Spring 2017  
+- DGIST Undergraduate Research Award, 2018
 
-## Projects
-- Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
-- Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
-- Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Severance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
-    - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
+## Mentoring
+- [Sohee Kim](https://www.linkedin.com/in/sohee-kim-b52098276/) (M.S. Student, KAIST → Ph.D. Student, KAIST)  
+  01.2023 - Current, Multimodal Reasoning: EMNLP 2025 (under review)
+- [Hyunjin Seo](https://hyunjin72.github.io/) (M.S. Student, KAIST → Ph.D. Student, KAIST)  
+  10.2022 - 06.2024, Graph Neural Networks: ICCV 2023, AAAI 2025
+- [Changhun Kim](https://changhun.kim/) (M.S. Student, KAIST → Research Scientist, AITRICS)  
+  08.2022 - 03.2023, Test-Time Adaptation: INTERSPEECH 2023 (oral)
+- [Kyusung Seo](https://www.linkedin.com/in/kyusung-seo-513137172/) (M.S. Student, KAIST → Research Engineer, LINE Plus)  
+  03.2022 - 10.2023, Semantic-aware Data Augmentation: ICASSP 2023
+
 
 ## Academic Services
 - **Conference Reviewer**
@@ -140,3 +148,9 @@ aa
 - **Journal Reviewer**
     - Transactions on Neural Networks and Learning Systems (**TNNLS**)
     - Transactions on Multimedia (**TMM**)
+
+## Projects
+- Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
+- Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
+- Machine learning model for the prediction of Hypoxaemia during Endoscopic Retrograde Cholangiopancreatography, **Yonsei Severance Hospital**, <font size="3">Mar. 2020 - Jun. 2020</font>
+    - Published in [Yonsei Medical Journal](https://ymj.kr/DOIx.php?id=10.3349/ymj.2022.0381)
