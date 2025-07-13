@@ -54,7 +54,7 @@ Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim, Eunho Yang \\
 - **<font size="4">SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization</font>** 
 [[paper]](https://arxiv.org/abs/2306.01981) \\
 Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
-<span style="color:darkred">**INTERSPEECH**</span> 2023 <span style="color:darkred">**(oral presentation)**</span> (Congrats on my mentee's paper! :tada:)
+<span style="color:darkred">**INTERSPEECH**</span> 2023 <span style="color:darkred">**(oral presentation)**</span> - Congrats on my mentee's paper! :tada:
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
 **Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(* : equal contribution)</font> \\
@@ -63,7 +63,7 @@ Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
 - **<font size="4">WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving</font>**
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10097196) \\
 Kyusung Seo, **Joonhyung Park**, Jaeyun Song, Eunho Yang \\
-<span style="color:darkred">**ICASSP**</span> 2023 (Congrats on my mentee's paper! :tada:)
+<span style="color:darkred">**ICASSP**</span> 2023 - Congrats on my mentee's paper! :tada:
 
 - **<font size="4">TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification</font>**
 [[paper]](https://proceedings.mlr.press/v162/song22a/song22a.pdf) \\
@@ -86,18 +86,18 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 <span style="color:darkred">**AAAI**</span> 2022
 
 ## Work Experience
-**Amazon AWS AI**  
-Applied Scientist II Intern 
+- **Amazon AWS AI**  
+Applied Scientist II Intern  
 Mentors: [Peng Tang](https://ppengttang.github.io/), [Srikar Appalaraju](https://scholar.google.com/citations?user=KQLmaxgAAAAJ&hl=en), [Yash Singh](https://www.linkedin.com/in/kunwar-yashraj-singh-62ba5552/), [Sagnik Das](https://www3.cs.stonybrook.edu/~sadas/), and [Shabnam Ghadar](https://www.linkedin.com/in/shghadar/)  
 Jun 2024 – Nov 2024, Pasadena, CA
 
-**University of Virginia**  
+- **University of Virginia**  
 Research Intern   
 Advisor: Prof. [Homa Alemzadeh](https://homa-alem.github.io/)  
 Jun 2018 – Aug 2018, Charlottesville, VA  
 <!-- Medical concept extraction in text data for a Cognitive Assistant System for emergency medical response (supported by NIST). -->
 
-**Collaborative Robots Research Center, DGIST**  
+- **Collaborative Robots Research Center, DGIST**  
 Research Intern  
 Jun 2017 – Aug 2017, Daegu, South Korea  
 
