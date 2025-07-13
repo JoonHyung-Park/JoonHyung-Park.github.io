@@ -54,7 +54,7 @@ Yeonsung Jung, Heecheol Yun, **Joonhyung Park**, Jin-Hwa Kim, Eunho Yang \\
 - **<font size="4">SGEM: Test-Time Adaptation for Automatic Speech Recognition via Sequential-Level Generalized Entropy Minimization</font>** 
 [[paper]](https://arxiv.org/abs/2306.01981) \\
 Changhun Kim, **Joonhyung Park**, Hajin Shim, Eunho Yang \\
-<span style="color:darkred">**INTERSPEECH**</span> 2023 (Congrats on my mentee's paper! :tada:)
+<span style="color:darkred">**INTERSPEECH**</span> 2023 <span style="color:darkred">**(oral presentation)**</span> (Congrats on my mentee's paper! :tada:)
 
 - **<font size="4">CALA: Connectivity- and Attribute-Aware Logit Adjustment for Class-Imbalanced Graphs</font>**\\
 **Joonhyung Park\***, Jaeyun Song\*, Eunho Yang <font size="3">(* : equal contribution)</font> \\
@@ -86,13 +86,26 @@ Jaeyun Song\*, **Joonhyung Park\***, Eunho Yang <font size="3">(*: equal contrib
 <span style="color:darkred">**AAAI**</span> 2022
 
 ## Work Experience
-- Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
+**Amazon AWS AI**  
+Applied Scientist II Intern (mentors: Peng Tang, Srikar Appalaraju, Yash Singh, Sagnik Das, and Shabnam Ghadar)  
+Jun 2024 – Nov 2024, Pasadena, CA
+
+**University of Virginia**  
+Research Intern (advisor: Prof. [Homa Alemzadeh](https://homa-alem.github.io/))  
+Jun 2018 – Aug 2018, Charlottesville, VA  
+<!-- Medical concept extraction in text data for a Cognitive Assistant System for emergency medical response (supported by NIST). -->
+
+**Collaborative Robots Research Center, DGIST**  
+Research Intern  
+Jun 2017 – Aug 2017, Daegu, South Korea  
+<!-- Developed a treadmill for stroke hemiplegic patients. -->
+<!-- - Applied Scientist II Intern, **Amazon AWS AI**, Pasadena, CA,  <font size="3">Jun. 2024 - </font>
   - Mentors: Peng Tang, Srikar Appalaraju, Yash Singh, Sagnik Das, and Shabnam Ghadar
 - Research Intern, **University of Virginia**, Charlottesville, VA, <font size="3">Jun. 2018 - Aug. 2018</font>
   - Advisor: Prof. [Homa Alemzadeh](https://homa-alem.github.io/)
   - Medical concept extraction in text data for Cognitive Assistant System of emergency medical response (supported by the National Institute of Standards and Technology).
 - Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
-  - Development of treadmill for stroke hemiplegic patients
+  - Development of treadmill for stroke hemiplegic patients -->
 
 ## Education
 - **Ph.D.** (integrated) in Graduate School of AI, **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2021 - Feb. 2025</font> 
