@@ -146,9 +146,9 @@ Jun 2017 – Aug 2017, Daegu, South Korea
     - International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)
     - Learning on Graphs (**LoG**)
 - **Journal Reviewer**
-    - Transactions on Neural Networks and Learning Systems (**TNNLS**)
-    - Transactions on Multimedia (**TMM**)
-
+    - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+    - IEEE Transactions on Multimedia (**TMM**)
+    - Knowledge and Information Systems
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
