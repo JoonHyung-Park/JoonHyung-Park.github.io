@@ -118,7 +118,8 @@ Jun 2017 – Aug 2017, Daegu, South Korea
 - **B.E.** in Computer Science Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2016 - Feb. 2020</font> - <span style="color:darkred;font-size:3;">(***Summa Cum Laude, 1st in Bachelor of Engineering***)</span>
 
 ## Honors and Awards
-- **Jang Young Sil Posdoctoral Fellowship** (KRW 50 milion research grant), 2025
+- **InnoCORE National Postdoctoral Fellowship** (National fellowship awarded to leading postdoctoral researchers), 2025
+- **Jang Young Sil Postdoctoral Fellowship** (KRW 50 milion research grant), 2025
 - **Hessel Leadership Award** (DGIST President's award for highest GPA),  2019
 - **Dean’s List** (top 3% academic scholarship), Spring 2018, Fall 2017, Spring 2017  
 - **DGIST Undergraduate Research Award**, 2018
@@ -149,6 +150,7 @@ Jun 2017 – Aug 2017, Daegu, South Korea
     - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
     - IEEE Transactions on Multimedia (**TMM**)
     - Knowledge and Information Systems
+
 ## Projects
 - Sub-task generation based point/regional Out-Of-Distribution detection, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
 - Predicting graph properties with few labels using Graph Neural Networks, **Samsung Electronics**, <font size="3">Sep. 2020 - Sep. 2025</font>
