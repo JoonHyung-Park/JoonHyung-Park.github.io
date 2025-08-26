@@ -126,7 +126,7 @@ Jun 2017 – Aug 2017, Daegu, South Korea
 
 ## Mentoring
 - [Sohee Kim](https://www.linkedin.com/in/sohee-kim-b52098276/) (M.S. Student, KAIST → Ph.D. Student, KAIST)  
-  01.2023 - Current, Multimodal Reasoning: EMNLP 2025 (under review)
+  01.2023 - Current, Multimodal Reasoning: EMNLP 2025
 - [Hyunjin Seo](https://hyunjin72.github.io/) (M.S. Student, KAIST → Ph.D. Student, KAIST)  
   10.2022 - 06.2024, Graph Neural Networks: ICCV 2023, AAAI 2025
 - [Changhun Kim](https://changhun.kim/) (M.S. Student, KAIST → Research Scientist, AITRICS)  
@@ -149,6 +149,7 @@ Jun 2017 – Aug 2017, Daegu, South Korea
 - **Journal Reviewer**
     - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
     - IEEE Transactions on Multimedia (**TMM**)
+    - IEEE Transactions on Big Data 
     - Knowledge and Information Systems
 
 ## Projects
