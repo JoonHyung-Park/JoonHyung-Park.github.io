@@ -25,7 +25,9 @@ I am broadly interested in advancing the **reasoning capabilities of AI models (
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## News
+**Sep 2025**: Selected as an InnoCORE Postdoctoral Fellow.
 **Aug 2025**: Attending ACL 2025 in person. See you in Vienna!  
+**Aug 2025**: One paper accepted to EMNLP 2025.  
 **Jul 2025**: Gave a talk at Seoul AI Hub.  
 **May 2025**: One paper accepted to ACL 2025.  
 **May 2025**: Received Jang Young Sil Postdoctoral Fellowship from KAIST.  
