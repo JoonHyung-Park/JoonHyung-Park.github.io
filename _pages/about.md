@@ -37,6 +37,24 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 **May 2024** One paper accepted to ICML 2024.
 
 ## Publications
+- **<font size="4">GridAR: Glimpse-and-Grow Test-Time Scaling for Autoregressive Image Generation</font>**
+[[project page]](https://grid-ar.github.io/) \\
+**Joonhyung Park**, Hyeongwon Jang, Joowon Kim, Sihwan Park, Eunho Yang
+ \\
+Preprint 2025
+
+- **<font size="4">EMR-AGENT: Automating Cohort and Feature Extraction from EMR Databases</font>**
+[[paper]](https://arxiv.org/pdf/2510.00549) \\
+Kwanhyung Lee, Sungsoo Hong, **Joonhyung Park**, Jeonghyeop Lim, Juhwan Choi, Donghwee Yoon, Eunho Yang
+ \\
+Preprint 2025
+
+- **<font size="4">Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens</font>**
+[[paper]](https://arxiv.org/pdf/2509.03025) \\
+Sohee Kim, Soohyun Ryu, **Joonhyung Park**, Eunho Yang
+ \\
+<span style="color:darkred">**EMNLP**</span> 2025
+
 - **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>**
 [[paper]](https://arxiv.org/pdf/2507.05673) \\
 **Joonhyung Park**, Peng Tang, Sagnik Das, Srikar appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar 
