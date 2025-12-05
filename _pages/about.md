@@ -37,7 +37,7 @@ My primary research interest in 3D vision falls into two branches following: 1) 
 **May 2024** One paper accepted to ICML 2024.
 
 ## Publications
-- **<font size="4">GridAR: Glimpse-and-Grow Test-Time Scaling for Autoregressive Image Generation</font>**
+- **<font size="4">Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation</font>**
 [[project]](https://grid-ar.github.io/) \\
 **Joonhyung Park**, Hyeongwon Jang, Joowon Kim, Sihwan Park, Eunho Yang
  \\
