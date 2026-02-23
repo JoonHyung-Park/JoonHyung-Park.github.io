@@ -25,35 +25,42 @@ I am broadly interested in advancing the **reasoning capabilities of AI models (
 My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
 -->
 ## News
+**Feb 2026** One paper accpeted to <span style="color:#039827;">CVPR 2026</span>.  
+**Jan 2026** One paper accpeted to <span style="color:#039827;">ICLR 2026</span>.  
 **Sep 2025**: Selected as an InnoCORE Postdoctoral Fellow.  
-**Aug 2025**: One paper accepted to EMNLP 2025.  
-**Aug 2025**: Attending ACL 2025 in person. See you in Vienna!  
+**Aug 2025**: One paper accepted to <span style="color:#039827;">EMNLP 2025</span>.  
 **Jul 2025**: Gave a talk at Seoul AI Hub.  
-**May 2025**: One paper accepted to ACL 2025.  
+**May 2025**: One paper accepted to <span style="color:#039827;">ACL 2025</span>.  
 **May 2025**: Received Jang Young Sil Postdoctoral Fellowship from KAIST.  
 **Dec 2024**: Successfully defended Ph.D. dissertation (Committee: Eunho Yang, Jinwoo Shin, Jaegul Choo, Sung Ju Hwang, Jong Chul Ye).  
-**Dec 2024** One paper is got accpeted to the AAAI 2025.  
+**Dec 2024** One paper accpeted to <span style="color:#039827;">AAAI 2025</span>.  
 **Jun 2024** Started Applied Scientist II Internship at Amazon AWS AI Labs.  
-**May 2024** One paper accepted to ICML 2024.
+**May 2024** One paper accepted to <span style="color:#039827;">ICML 2024</span>.
 
 ## Publications
-- **<font size="4">Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation</font>**
-[[project]](https://grid-ar.github.io/) \\
-**Joonhyung Park**, Hyeongwon Jang, Joowon Kim, Sihwan Park, Eunho Yang
- \\
-Preprint 2025
-
 - **<font size="4">EMR-AGENT: Automating Cohort and Feature Extraction from EMR Databases</font>**
 [[paper]](https://arxiv.org/pdf/2510.00549) \\
 Kwanhyung Lee, Sungsoo Hong, **Joonhyung Park**, Jeonghyeop Lim, Juhwan Choi, Donghwee Yoon, Eunho Yang
  \\
 Preprint 2025
 
+- **<font size="4">Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation</font>**
+[[project]](https://grid-ar.github.io/) [[paper]](https://openreview.net/forum?id=6t9YPOZH0w) \\
+**Joonhyung Park**, Hyeongwon Jang, Joowon Kim, Eunho Yang
+ \\
+<span style="color:darkred">**CVPR**</span> 2026
+
+- **<font size="4">Secure Inference for Diffusion Models via Unconditional Scores</font>**
+[[paper]](https://arxiv.org/abs/2511.21185) \\
+Jaeyun Song, Geondo Park, Uigyu Kim, **Joonhyung Park**, Eunho Yang
+ \\
+<span style="color:darkred">**ICLR**</span> 2026
+
 - **<font size="4">Unveiling the Response of Large Vision-Language Models to Visually Absent Tokens</font>**
 [[paper]](https://arxiv.org/pdf/2509.03025) \\
 Sohee Kim, Soohyun Ryu, **Joonhyung Park**, Eunho Yang
  \\
-<span style="color:darkred">**EMNLP**</span> 2025
+<span style="color:darkred">**EMNLP**</span> 2025 - Congrats on my mentee's paper! :tada:
 
 - **<font size="4">R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding</font>**
 [[paper]](https://arxiv.org/pdf/2507.05673) \\
@@ -162,6 +169,7 @@ Jun 2017 – Aug 2017, Daegu, South Korea
     - International Conference on Learning Representations (**ICLR**) 
     - Computer Vision and Pattern Recognition (**CVPR**)
     - International Conference on Computer Vision (**ICCV**)
+    - European Conference on Computer Vision (**ECCV**)
     - AAAI Conference on Artificial Intelligence (**AAAI**)
     - International Conference on Artificial Intelligence and Statistics (**AISTATS**)
     - International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)
