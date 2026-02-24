@@ -9,7 +9,7 @@ redirect_from:
 classes: "about-page"
 ---
 
-I'm a Postdoctoral Research Associate at the [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, where I received my Ph.D. degree advised by Prof. [Eunho Yang](https://mli.kaist.ac.kr/people/). During my Ph.D., I worked as a research intern at [Amazon AWS AI](https://www.amazon.science/) (Agentic AI team) and collaborated closely with [Peng Tang](https://ppengttang.github.io/), a researcher at [Meta](https://ai.meta.com/research/). I also worked with Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) and Prof. [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) through collaborative research. I am a recipient of the [Jang Young Sil Postdoctoral Fellowship](https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=V&no=2173bbf76f962af21132db6a2257046c&GotoPage=1), which supports outstanding postdoctoral researchers in Korea.
+I'm a Postdoctoral Research Associate at the [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, where I received my Ph.D. degree advised by Prof. [Eunho Yang](https://mli.kaist.ac.kr/people/). During my Ph.D., I worked as a research intern at [Amazon AWS AI](https://www.amazon.science/) (Agentic AI team) and collaborated closely with [Peng Tang](https://ppengttang.github.io/). I also worked with Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/) and Prof. [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html) through collaborative research. I am a recipient of the [Jang Young Sil Postdoctoral Fellowship](https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=V&no=2173bbf76f962af21132db6a2257046c&GotoPage=1), which supports outstanding postdoctoral researchers in Korea.
 
 <!-- My research interest falls into enhancing the understanding of unstructured/video data modalities through the guidance of large language models. With these goals in mind, my recent focus has been on linking diverse modalities into the core of large language model **through the lens of graph-structured knowledge**, *e.g.* object graphs (3D vision), knowledge graphs (natural language), and scene graphs (video). In this endeavor, I work on building algorithms that leverage relational information of data therein, **revisiting real-world problems within a graph-based framework to provide a structured understanding of complex data modalities** in large language models. -->
 I am broadly interested in advancing the **reasoning capabilities of AI models (System 2 Thinking)** in the context of **multi-modal learning**. In particular, my recent research focuses on test-time scaling, pushing models toward deeper visual understanding and generation, and augmenting them with structured knowledge so that their learned representations are ready for in-depth reasoning. Ultimately, my research aims to design models capable of **human-level reasoning** by flexibly engaging with diverse modalities. Before the LLM era, I worked on modeling complex modalities through the lens of graph-structured knowledge, revisiting real-world problems to provide compositional understanding to machine learning models.
@@ -45,13 +45,13 @@ Kwanhyung Lee, Sungsoo Hong, **Joonhyung Park**, Jeonghyeop Lim, Juhwan Choi, Do
 Preprint 2025
 
 - **<font size="4">Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation</font>**
-[[project]](https://grid-ar.github.io/) [[paper]](https://openreview.net/forum?id=6t9YPOZH0w) \\
+[[project]](https://grid-ar.github.io/) [[paper]](https://arxiv.org/abs/2511.21185) \\
 **Joonhyung Park**, Hyeongwon Jang, Joowon Kim, Eunho Yang
  \\
 <span style="color:darkred">**CVPR**</span> 2026
 
 - **<font size="4">Secure Inference for Diffusion Models via Unconditional Scores</font>**
-[[paper]](https://arxiv.org/abs/2511.21185) \\
+[[paper]](https://openreview.net/forum?id=6t9YPOZH0w) \\
 Jaeyun Song, Geondo Park, Uigyu Kim, **Joonhyung Park**, Eunho Yang
  \\
 <span style="color:darkred">**ICLR**</span> 2026
