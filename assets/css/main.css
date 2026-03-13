@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@300;400;500;700&display=swap");.page__content p,.page__content li,.page__content blockquote,.page__content td,.page__content th{font-family:'Roboto', sans-serif;font-weight:300;line-height:1.6em}.page__content strong,.page__content b{font-weight:400}.navigation ul a{font-family:'Roboto Slab', serif;font-weight:400}/*!
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@300;400;500;700&display=swap");.page__content p,.page__content li,.page__content blockquote,.page__content td,.page__content th{font-family:'Roboto', sans-serif;font-weight:300;line-height:1.6em;color:#212529}.page__content strong,.page__content b{font-weight:400}.navigation ul a{font-family:'Roboto Slab', serif;font-weight:400}/*!
  * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
  * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
